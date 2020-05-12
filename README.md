@@ -1,4 +1,4 @@
-#  📨 CO Suggestion Box
+# no fat bodies
 
 Custom exercises, developed by fitness leaders, aimed at improving the health and well-being of sailors.
 
