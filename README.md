@@ -1,6 +1,6 @@
 # no fat bodies
 
-Custom exercises, developed by fitness leaders, aimed at improving the health and well-being of sailors.
+Custom exercises, developed by certified fitness leaders, aimed at improving the health and well-being of sailors.
 
 ![Alt text](/resources/images/snapshot.png) 
 
