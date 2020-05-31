@@ -2,7 +2,7 @@
 
 Custom exercises, developed by certified fitness leaders, aimed at improving the health and well-being of sailors.
 
-![Alt text](/resources/images/snapshot.png) 
+![Alt text](/resources/tests/test.png) 
 
 ## Usage
 
