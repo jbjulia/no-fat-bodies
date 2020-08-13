@@ -6,7 +6,7 @@ Custom exercises, developed by certified fitness leaders, aimed at improving the
 
 ## Usage
 
-[Click here to check it out!](https://nofatbodies.com/)
+[Click here to check it out!](https://jbjulia.github.io/no-fat-bodies/)
 
 ## Contributing
 
